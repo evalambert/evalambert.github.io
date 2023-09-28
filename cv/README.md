@@ -22,9 +22,8 @@ HTML & CSS
 
 ## 🔗 LIEN VERS LE PROJET
 
-![Lien vers mon projet](https://evalambert.github.io/cv/)
+![Lien](https://evalambert.github.io/cv/) vers mon projet
 
 ## 👀 APERÇU DU PROJET
 
-![Screen shot version Desktop](img/screen-1.jpg)
-![Screen shot version Desktop](img/screen-2.jpg)
+![Aperçu projet](img/1.jpg)
