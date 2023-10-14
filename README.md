@@ -26,7 +26,7 @@
 
 ## 🔗 LIEN VERS LE PROJET
 
-![Lien vers mon projet](https://evalambert.github.io/)
+[Lien vers mon projet](https://evalambert.github.io/)
 
 ## 👀 APERÇU DU PROJET
 
