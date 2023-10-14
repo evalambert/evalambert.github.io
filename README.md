@@ -1,5 +1,9 @@
 # 📜 LANDNG PAGE
 
+## 🔗 LIEN VERS LE PROJET
+
+[https://evalambert.github.io/](https://evalambert.github.io/)
+
 ## 🎯 OBJECTIFS
 
 - Utiliser les médiaqueries pour créer une page responsive
@@ -22,11 +26,7 @@
 
 ## ⏰ ÉTAT D'AVANCEMENT
 
-- Finito 🙃
-
-## 🔗 LIEN VERS LE PROJET
-
-[Lien vers mon projet](https://evalambert.github.io/)
+- Finito 😋
 
 ## 👀 APERÇU DU PROJET
 
